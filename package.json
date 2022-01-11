@@ -1,0 +1,24 @@
+{
+  "name": "microserver",
+  "version": "1.0.0",
+  "description": "microser is used for private purpose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuantieu/miroserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuantieu/miroserver/issues"
+  },
+  "homepage": "https://github.com/thuantieu/miroserver#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
